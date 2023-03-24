@@ -13,7 +13,7 @@ public class PracticeMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-
+		ModItems.registerModItems();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

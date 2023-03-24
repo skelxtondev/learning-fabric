@@ -22,8 +22,8 @@ public class ModItems {
     }
 
     public static void addItemsToItemGroup(){
-        addtoItemGroup(ItemGroups.INGREDIENTS,RAW_TANZANITE);
-        addtoItemGroup(ItemGroups.INGREDIENTS,TANZANITE);
+        addtoItemGroup(ModItemGroup.TANZANITE,RAW_TANZANITE);
+        addtoItemGroup(ModItemGroup.TANZANITE,TANZANITE);
     }
 
     private static void addtoItemGroup(ItemGroup group, Item item) {
