@@ -1,4 +1,4 @@
-package net.skelxton.practicemod;
+package net.skelxton;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
