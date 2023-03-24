@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "practicemod:block/deepslate_tanzanite_ore"
+  }
+}

@@ -2,5 +2,11 @@
   "item.practicemod.raw_tanzanite": "Raw Tanzanite",
   "item.practicemod.tanzanite": "Tanzanite",
 
+  "block.practicemod.tanzanite_block": "Tanzanite Block",
+  "block.practicemod.tanzanite_ore": "Tanzanite Ore",
+  "block.practicemod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.practicemod.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
+  "block.practicemod.netherrack_tanzanite_ore": "Netherrack Tanzanite Ore",
+
   "itemGroup.practicemod.tanzanite": "Tanzanite Tab"
 }

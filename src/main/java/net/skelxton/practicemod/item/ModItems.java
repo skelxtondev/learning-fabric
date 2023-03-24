@@ -26,7 +26,7 @@ public class ModItems {
         addtoItemGroup(ModItemGroup.TANZANITE,TANZANITE);
     }
 
-    private static void addtoItemGroup(ItemGroup group, Item item) {
+    public static void addtoItemGroup(ItemGroup group, Item item) {
         ItemGroupEvents.modifyEntriesEvent(group).register(entries -> entries.add(item));
     }
     public static void registerModItems() {
