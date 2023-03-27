@@ -27,7 +27,7 @@ public class ModBlocks {
             .strength(4f).requiresTool(), UniformIntProvider.create(3,7)), ModItemGroup.TANZANITE);
 
     public static final Block ENDSTONE_TANZANITE_ORE = registerBlock("endstone_tanzanite_ore", new ExperienceDroppingBlock(FabricBlockSettings.of(Material.STONE)
-            .strength(4f).requiresTool().luminance(5), UniformIntProvider.create(3,7)), ModItemGroup.TANZANITE);
+            .strength(4f).requiresTool(), UniformIntProvider.create(3,7)), ModItemGroup.TANZANITE);
 
     public static final Block NETHERRACK_TANZANITE_ORE = registerBlock("netherrack_tanzanite_ore", new ExperienceDroppingBlock(FabricBlockSettings.of(Material.STONE)
             .strength(4f).requiresTool(), UniformIntProvider.create(3,7)), ModItemGroup.TANZANITE);

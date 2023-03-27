@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "practicemod:tanzanite_block"
+    }
+  ],
+  "result": {
+    "item": "practicemod:tanzanite",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "practicemod:tanzanite_block",
+    "practicemod:tanzanite_ore",
+    "practicemod:deepslate_tanzanite_ore",
+    "practicemod:endstone_tanzanite_ore",
+    "practicemod:netherrack_tanzanite_ore"
+  ]
+}
